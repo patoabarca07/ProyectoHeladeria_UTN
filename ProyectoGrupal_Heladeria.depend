@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1697834535 source:c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\main.cpp
+	<iostream>
+	"Menu.h"
+
+1700163140 c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\menu.h
+	<iostream>
+	"Helado.h"
+	"Envase.h"
+	"Cliente.h"
+	"Empleado.h"
+	"Venta.h"
+	"string.h"
+
+1700253968 c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\include\helado.h
+	"Fecha.h"
+	<cstdio>
+	<libxl.h>
+
+1698917239 c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\include\fecha.h
+	<iostream>
+	<ctime>
+	<cstdio>
+
+1699649508 c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\include\envase.h
+	<cstdio>
+
+1699720107 c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\include\cliente.h
+	"Persona.h"
+	<cstdio>
+	<libxl.h>
+
+1698786175 c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\include\persona.h
+	"Fecha.h"
+	<cstdio>
+
+1699301612 c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\include\empleado.h
+	"Persona.h"
+	<cstdio>
+	<libxl.h>
+
+1699521485 c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\include\venta.h
+	"Helado.h"
+	"Envase.h"
+	"Cliente.h"
+	"Empleado.h"
+	"Fecha.h"
+	<iostream>
+	<libxl.h>
+
+1700068146 source:c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\src\cliente.cpp
+	"Cliente.h"
+	<string.h>
+	<iomanip>
+
+1700040311 source:c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\src\empleado.cpp
+	"Empleado.h"
+	<string.h>
+	<iostream>
+	"Persona.h"
+
+1700040311 source:c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\src\fecha.cpp
+	"Fecha.h"
+
+1699914991 source:c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\src\persona.cpp
+	"Persona.h"
+	<string.h>
+
+1700253968 source:c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\src\venta.cpp
+	"Venta.h"
+	"string.h"
+	<iomanip>
+
+1700040311 source:c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\src\envase.cpp
+	"Envase.h"
+	<string.h>
+	<iostream>
+
+1700254063 source:c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\src\helado.cpp
+	"Helado.h"
+	"string.h"
+	<libxl.h>
+
+1694560330 c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\libxl-4.2.0\include_cpp\libxl.h
+	"IBookT.h"
+	"ISheetT.h"
+	"IFormatT.h"
+	"IFontT.h"
+	"IAutoFilterT.h"
+	"IFilterColumnT.h"
+	"IRichStringT.h"
+	"IFormControlT.h"
+	"IConditionalFormatT.h"
+	"IConditionalFormattingT.h"
+
+1694560330 c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\libxl-4.2.0\include_cpp\ibookt.h
+	<stddef.h>
+	"setup.h"
+	"enum.h"
+
+1694560330 c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\libxl-4.2.0\include_cpp\setup.h
+
+1694560330 c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\libxl-4.2.0\include_cpp\enum.h
+
+1694560330 c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\libxl-4.2.0\include_cpp\isheett.h
+	"setup.h"
+	"enum.h"
+
+1694560330 c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\libxl-4.2.0\include_cpp\iformatt.h
+	"setup.h"
+	"enum.h"
+
+1694560330 c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\libxl-4.2.0\include_cpp\ifontt.h
+	"setup.h"
+	"enum.h"
+
+1694560330 c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\libxl-4.2.0\include_cpp\iautofiltert.h
+	"setup.h"
+
+1694560330 c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\libxl-4.2.0\include_cpp\ifiltercolumnt.h
+	"setup.h"
+	"enum.h"
+
+1694560330 c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\libxl-4.2.0\include_cpp\irichstringt.h
+	"setup.h"
+
+1694560330 c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\libxl-4.2.0\include_cpp\iformcontrolt.h
+	"setup.h"
+	"enum.h"
+
+1694560330 c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\libxl-4.2.0\include_cpp\iconditionalformatt.h
+	"setup.h"
+	"enum.h"
+
+1694560330 c:\users\asus\documents\2do cuatrimestre\programacion ii\proyectogrupal_heladeria\libxl-4.2.0\include_cpp\iconditionalformattingt.h
+	"setup.h"
+	"enum.h"
+
